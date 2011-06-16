@@ -1,0 +1,5 @@
+0x00000000	gpio_regon_lock_init	/home/banjo/I5700-kernel-2-6-32-9/16Bpp-I5700-kernel-2.6.32.9-FROYO/modules/wlan/dhd	EXPORT_SYMBOL_GPL
+0x00000000	gpio_wlan_poweron	/home/banjo/I5700-kernel-2-6-32-9/16Bpp-I5700-kernel-2.6.32.9-FROYO/modules/wlan/dhd	EXPORT_SYMBOL_GPL
+0x00000000	gpio_wlan_poweroff	/home/banjo/I5700-kernel-2-6-32-9/16Bpp-I5700-kernel-2.6.32.9-FROYO/modules/wlan/dhd	EXPORT_SYMBOL_GPL
+0x00000000	bcmsdh_remove	/home/banjo/I5700-kernel-2-6-32-9/16Bpp-I5700-kernel-2.6.32.9-FROYO/modules/wlan/dhd	EXPORT_SYMBOL
+0x00000000	bcmsdh_probe	/home/banjo/I5700-kernel-2-6-32-9/16Bpp-I5700-kernel-2.6.32.9-FROYO/modules/wlan/dhd	EXPORT_SYMBOL
